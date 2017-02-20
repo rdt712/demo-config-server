@@ -1,0 +1,4 @@
+zuul:
+  routes:
+    book: /book/**
+    account: /account/**
