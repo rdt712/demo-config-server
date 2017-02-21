@@ -1,2 +1,2 @@
 # demo-config-server
-Config Server for Demo Project
+Config Server for Training Demo Project
